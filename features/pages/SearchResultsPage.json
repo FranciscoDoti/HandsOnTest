@@ -1,0 +1,3 @@
+{
+    "searchResults": "//div[contains(@data-async-context,'query:')]//div[@class='g']"
+}

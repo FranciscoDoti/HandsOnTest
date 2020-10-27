@@ -1,0 +1,5 @@
+{
+    "searchInput": "//input[@name='q' and @type='text']",
+    "searchButton": "//form//div[2]//div/div[2]//input[@type='submit' and @value= 'Buscar con Google']",
+    "suggestionsList": "//ul[@role='listbox']/li"
+}
